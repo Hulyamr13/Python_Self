@@ -1,2 +1,1 @@
 # Python_Self
-telerikacademy
